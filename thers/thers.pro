@@ -12,10 +12,14 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         loginwindow.cpp \
-    mainwindow.cpp
+    mainwindow.cpp \
+    gamewidget.cpp
 
 HEADERS  += loginwindow.h \
-    mainwindow.h
+    mainwindow.h \
+    gamewidget.h
+
+
 
 
 
